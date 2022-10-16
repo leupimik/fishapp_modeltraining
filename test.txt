@@ -1,3 +1,1 @@
-blablablabla
-
-Hallo ich bin Luca und ich commite diesen Text aus meinem VSC.
+Juhuu, der Commit funktioniert :)
